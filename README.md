@@ -17,5 +17,7 @@ In addition, AnimArchOvals1.html summarizes the animation-related code variation
 
 The filenames with the prefix "Gestures" illustrate how to handle `mouseover` events in order to dynamically update various properties of the SVG-based graphics elements, which you can use as guidelines for handling other gestures.
 
+The filenames with the prefix "Gestures3D" illustrate how to create 3D animation effects and also how to handle `mouseover` events in order to dynamically update various properties of the SVG-based graphics elements.
+
 NB: these code samples are intended for entertainment, and they do not necessarily contain "best practices", nor are they intended for a production website.
 
